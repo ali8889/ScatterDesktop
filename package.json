@@ -43,7 +43,7 @@
     "@ledgerhq/hw-app-eth": "^4.23.0",
     "@ledgerhq/hw-transport-node-hid": "^4.22.0",
     "aes-oop": "^1.0.4",
-    "animate.css": "^3.7.0",
+    "animate.css": "^3.7.2",
     "asn1-ber": "^1.0.9",
     "babel-core": "^6.26.0",
     "bip32-path": "^0.4.2",
