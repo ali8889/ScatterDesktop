@@ -40,7 +40,7 @@
     "postinstall": "electron-rebuild --force"
   },
   "dependencies": {
-    "@ledgerhq/hw-app-eth": "^4.23.0",
+    "@ledgerhq/hw-app-eth": "^4.78.0",
     "@ledgerhq/hw-transport-node-hid": "^4.22.0",
     "aes-oop": "^1.0.4",
     "animate.css": "^3.7.0",
